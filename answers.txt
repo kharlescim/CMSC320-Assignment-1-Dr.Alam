@@ -1,0 +1,21 @@
+Q1: Why might be consider using git?
+
+Answer: It allows a streamlined way to manage all changes to files and 
+collaboration among users. Since it stores the history of all changes to 
+any files, any mistakes or issues can easily be fixed by switching to a 
+previous version. In addition, it allows for collaborators to have all of 
+their work in a single place, while still allowing them to clone their own
+workspace for their own usage or innovations. Finally, it allows for 
+projects of massive sizes to be stored easily online, while smaller 
+portions can still be edited and tested on your local machine. 
+
+Q2: What field could data science be applied to? 
+Give an example and how it might help
+
+Data science could be applied to several fields, one of which includes 
+finance. For instance, a data scientist at a company can use data science 
+to help: analyze data for trends/correlations in sales, building predictive
+models based on this data, and developing databases to better manage data 
+and streamline inventory and sales for the company. Overall, data science 
+is extremely important to this industry for transforming data into 
+valuable future insights. 
