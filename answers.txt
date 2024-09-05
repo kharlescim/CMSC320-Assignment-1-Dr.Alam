@@ -25,3 +25,8 @@ Merging involves conbining the history of two branches into a single
 branch. Rebasing however rewrites history by putting changes from 
 one branch into the beginning of another, resulting in a more linear 
 history. 
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I hope to polish my skills in Python and gain experience working 
+with libraries such as PANDAS and numpy.
