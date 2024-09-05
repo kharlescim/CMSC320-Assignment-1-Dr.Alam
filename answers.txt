@@ -18,3 +18,10 @@ models based on this data, and developing databases to better manage data
 and streamline inventory and sales for the company. Overall, data science 
 is extremely important to this industry for transforming data into 
 valuable future insights. 
+
+Q3: What is the difference between merging and rebasing?
+
+Merging involves conbining the history of two branches into a single 
+branch. Rebasing however rewrites history by putting changes from 
+one branch into the beginning of another, resulting in a more linear 
+history. 
